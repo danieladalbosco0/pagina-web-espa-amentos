@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.imagem-destaque {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: margin-top 0.3s ease;
+}
