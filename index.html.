@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Projeto Alura</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="container">
+        <h1>Explorando Imagens e Espaçamentos</h1>
+        <p>Clique na imagem para testar a primeira interação!</p>
+        <img class="imagem-destaque" src="https://via.placeholder.com/300" alt="Imagem de Exemplo">
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
